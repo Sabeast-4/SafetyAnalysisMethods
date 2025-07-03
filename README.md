@@ -1,7 +1,6 @@
 # SafetyAnalysisMethods
-This repository contains additional material for "Safety Analysis Methods in Aerospace: A Case-Based Comparison of FTA and MBSA" 
-scientific paper submitted at IMBSA conference
-authors: Isabella Lanzani, Luca Perfetti and Luca Uliano
+This repository contains additional material for "Safety Analysis Methods in Aerospace: A Case-Based Comparison of FTA and MBSA" (paper submitted at IMBSA conference).
+Authors: Isabella Lanzani, Luca Perfetti and Luca Uliano
 
 inside FTA folder:
 - Fault Tree Analysis for Loss of heading control function (extracted from Isograph)
