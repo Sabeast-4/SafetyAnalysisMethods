@@ -3,7 +3,7 @@ This repository contains additional material for "Safety Analysis Methods in Aer
 
 Authors: Isabella Lanzani, Luca Perfetti and Luca Uliano
 
-
+______________________________________________________________________________________
 inside FTA folder:
 - Fault Tree Analysis for Loss of heading control function (extracted from Isograph)
 - Fault Tree Analysis for Erroneous heading control function (extracted from Isograph)
