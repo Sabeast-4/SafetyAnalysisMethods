@@ -10,5 +10,6 @@ inside MBSA folder:
 - report of the safety model (extracted from Cecilia) 
 - Minimal Cut Sets for the Loss of heading control function (extracter from Cecilia)
 - Minimal Cut Sets for the Erroneous heading control function (extracter from Cecilia)
+
 NOTE : files in MBSA folder are to be open in word
   
